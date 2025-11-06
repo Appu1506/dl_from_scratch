@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 21 09:41:10 2025
-
-@author: SPalliy
-"""
 
 
 """
@@ -469,6 +463,7 @@ trainer.fit(X_train, y_train, X_test, y_test,
 
 print()
 eval_regression_model(nn, X_test, y_test)
+
 
 
 
