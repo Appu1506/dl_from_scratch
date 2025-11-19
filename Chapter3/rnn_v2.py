@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 27 13:52:02 2025
-
-@author: SPalliy
-"""
-
 
 
 
@@ -174,6 +167,7 @@ def RNNModel():
 def RNNTrainer():
 
     def __init__()    
+
 
 
         
